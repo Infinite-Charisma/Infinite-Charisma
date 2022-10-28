@@ -8,7 +8,7 @@ Experienced with Web development for 5+ years. Currently working as blockchain f
 Deliver customer's superior quality product because your success is also mine.<br/>
 Always purchase something new and challengable...<br/>
 
-### Skills
+### 🛠Skills
 
 
 <p align="left">
@@ -40,6 +40,6 @@ Always purchase something new and challengable...<br/>
 </p>
 
 
-### Socials
+### 🤝Socials
 
-<p align="left"> <a href="https://discord.com/users/hot_joro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Joro-Mitsui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/1031873767862964245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Joro-Mitsui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
