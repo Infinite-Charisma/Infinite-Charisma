@@ -1,4 +1,4 @@
-Hi 👋 My name is Joro Mitsui
+Hi, there👋 
 ============================
 
 Blockchain Developer
