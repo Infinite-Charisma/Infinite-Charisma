@@ -47,10 +47,9 @@ Always purchase something new and challengable...<br/>
 &nbsp;
 <br />
 
-## 🌱 Experience
+### 🌱Experience
  - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
  - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Battalion and Poker
- - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
  - Built DEXs, Defi, DAO on EVM, BSC, Solana and Near
 <p>  
 
