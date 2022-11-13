@@ -45,8 +45,14 @@ Always purchase something new and challengable...<br/>
 &nbsp;
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="25" />
 &nbsp;
-<br /><br />
+<br />
 
+## 🌱 Experience
+ - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
+ - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Battalion and Poker
+ - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
+ - Built DEXs, Defi, DAO on EVM, BSC, Solana and Near
+<p>  
 
 ### 🤝Socials
 
