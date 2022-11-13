@@ -4,7 +4,7 @@ Hi, there👋
 Blockchain Developer
 --------------------
 
-Experienced with Web development for 6+ years. Currently working as blockchain fullstack developer.<br/>
+Experienced with Web development for 7+ years. Currently working as blockchain fullstack developer.<br/>
 Deliver customer's superior quality product because your success is also mine.<br/>
 Always purchase something new and challengable...<br/>
 
