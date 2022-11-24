@@ -52,8 +52,8 @@ Always purchase something new and challengable...<br/>
 
 ### 🤝Socials
 
-<p align="left"> <a href="https://discord.com/users/1031873767862964245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/1031873767862964245"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Donald | Discord" width="24px"/></a>
 <a href="https://t.me/gensky0731"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Donald | Telegram" width="24px"/></a>
  <a href="hotstuffjk0731@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Donald | Email" width="24px"/></a>
  <a href="https://join.skype.com/invite/mMQxhBacldqS"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Donald | Skype" width="24px"/></a>
-<a href="https://www.github.com/Infinite-Charisma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
