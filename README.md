@@ -1,9 +1,9 @@
 Blockchain Developer
 --------------------
 
-Experienced with Web development for 7+ years. Currently working as blockchain fullstack developer.<br/>
+Experienced with Web development for 7+ years. Currently working as fullstack blockchain developer.<br/>
 Deliver customer's superior quality product because your success is also mine.<br/>
-Always purchase something new and challengable...<br/>
+Always purchase something new and challengeable...<br/>
 
 ### 🛠Skills
 
@@ -47,15 +47,16 @@ Always purchase something new and challengable...<br/>
 ### 🌱Experience
  - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
  - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Battalion and Poker
- - Built DEXs, Defi, DAO on EVM, BSC, Solana and Near
+ - Built DEXs, Defi, DAO on EVM, BSC, Polygon, Avalanche and Solana
 <p>  
 
 ### 🤝Socials
 
 <p align="left">
  <a href="https://discord.com/users/1031873767862964245"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Donald | Discord" width="24px"/></a>
- <a href="https://t.me/gensky0731"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Donald | Telegram" width="24px"/></a>
- <a href="https://join.skype.com/invite/vS0tcyvFt4py"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Donald | Skype" width="24px"/></a>
+ <a href="https://t.me/JK_0731"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Donald | Telegram" width="24px"/></a>
+ <a href="https://join.skype.com/invite/u
+eBDjvh7fzwJ"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Donald | Skype" width="24px"/></a>
  <a href="mailto:hotstuffjk0731@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg"    alt="Donald | Email" width="24px"/></a>
 
 
