@@ -57,6 +57,5 @@ Always purchase something new and challengeable...<br/>
  <a href="https://t.me/JK_0731"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Donald | Telegram" width="24px"/></a>
  <a href="https://join.skype.com/invite/u
 eBDjvh7fzwJ"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Donald | Skype" width="24px"/></a>
- <a href="mailto:hotstuffjk0731@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg"    alt="Donald | Email" width="24px"/></a>
 
 
