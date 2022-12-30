@@ -53,6 +53,7 @@ Always purchase something new and challengeable...<br/>
 ### 🤝Socials
 
 <p align="left">
+ <a href="https://www.linkedin.com/in/donald-mitsui-03537a260"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Donald | Linkedin" width="24px"/></a>
  <a href="https://discord.com/users/1031873767862964245"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Donald | Discord" width="24px"/></a>
  <a href="https://t.me/JK_0731"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Donald | Telegram" width="24px"/></a>
  <a href="https://join.skype.com/invite/u
